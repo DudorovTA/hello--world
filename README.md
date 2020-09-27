@@ -1,2 +1,2 @@
-# hello--world
-My first repository
+This is something i'm yet to study
+#Jokes
